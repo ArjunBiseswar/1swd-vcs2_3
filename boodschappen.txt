@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 melk
 kip
 pindakaas
@@ -7,3 +8,11 @@ kaas
 boter
 appel
 banaan
+=======
+chips
+cola
+bier
+water
+pindakaas
+pepernoten
+>>>>>>> origin/sandra-naar-supermarkt
