@@ -15,4 +15,12 @@ bier
 water
 pindakaas
 pepernoten
+<<<<<<< HEAD
 >>>>>>> origin/sandra-naar-supermarkt
+=======
+wcpapier
+kalkoen
+pesto
+champagne
+tiramisu
+>>>>>>> origin/kerstdiner
